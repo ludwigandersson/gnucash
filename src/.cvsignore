@@ -1,0 +1,12 @@
+Makefile
+Makefile.in
+*.diff
+*.diffs
+*.patch
+*.log
+*.xac.*.xac
+gnucash
+gnucash-make-guids
+.deps
+.libs
+gnc-dir.h
